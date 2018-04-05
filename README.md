@@ -2,7 +2,7 @@
 
 A place to store code for creating stickers and output images.
 
-[`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package by [GuangchaungYu](https://github.com/GuangchuangYu). Examples [here](http://hexb.in).
+[`hexSticker`](https://github.com/GuangchuangYu/hexSticker) package by [Guangchuang Yu](https://github.com/GuangchuangYu). Examples [here](http://hexb.in).
 
 # Stickers
 
