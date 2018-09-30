@@ -12,20 +12,20 @@ Created for [Dr Mat Gregory](https://github.com/mammykins) in support of Reprodu
 
 ### Version 1
 
-![](output/rap_hex.png){width=250}
+![](output/rap_hex.png =250x)
 
 ### Version 2
 
-![](output/rap_v2_hex.png){width=250}
+![](output/rap_v2_hex.png =250x)
 
 ## rostrum_hex
 
 Created to complement the [Rostrum](https://www.rostrum.blog) blog.
 
-![](output/rostrum_hex.png){width=250}
+![](output/rostrum_hex.png =250x)
 
 ## business_hex
 
 Idea for a business card that's a hex sticker (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)). Uses theming from the rostrum_hex design.
 
-![](output/business_hex.png){width=250}
+![](output/business_hex.png =250x)
