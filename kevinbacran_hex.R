@@ -37,8 +37,10 @@ ggplot(nodes) +
   geom_point(aes(x, y), size = n_size, colour = n_col) +
   xlim(x_lo, x_hi) +
   ylim(y_lo, y_hi) +
+  theme_transparent() +
   theme_void()
 
+ggsave("~/Desktop/test.png")
 
 # Build sticker
 
@@ -51,7 +53,7 @@ sticker(
   p_y = 1.35,  # y position for package name
   
   # subplot options
-  subplot = "img/bacon.png",
+  subplot = "~/Desktop/test.png",
   s_x = 1,
   s_y = 0.8,
   s_width = 0.3,
