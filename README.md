@@ -34,4 +34,4 @@ Idea for a business card that's a hex sticker (as per [this tweet](https://twitt
 
 Created for the [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/)).
 
-<img src="output/kevnibacran_hex.png" width=250>
+<img src="output/kevinbacran_hex.png" width=250>
