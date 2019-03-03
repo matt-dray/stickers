@@ -29,3 +29,9 @@ Created to complement the [Rostrum](https://www.rostrum.blog) blog.
 Idea for a business card that's a hex sticker (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)). Uses theming from the rostrum_hex design.
 
 <img src="output/business_hex.png" width=250>
+
+## kevinbacran_hex
+
+Created for the [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/)).
+
+<img src="output/kevnibacran_hex.png" width=250>
