@@ -20,6 +20,8 @@ Created for [Dr Mat Gregory](https://github.com/mammykins) in support of Reprodu
 
 ### Version 3
 
+Designed by [Duncan Garmonsway](https://twitter.com/nacnudus) for better integration with GOV.UK design system.
+
 <img src="output/rap_v3_hex.png" width=250>
 
 ## rostrum_hex
