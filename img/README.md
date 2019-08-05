@@ -1,9 +1,18 @@
-## Warp pipe image
+# Image sources
 
-https://game-icons.net/1x1/delapouite/warp-pipe.html
+## oystercatcher.png
 
-By http://delapouite.com/
+* https://pixabay.com/vectors/oyster-catcher-bird-ave-wildlife-29025/
+* Pixabay license https://pixabay.com/service/license/
+* Free for commercial use, no attribution required
 
-Licence CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+## rostrum_logo.png
 
-Unaltered
+* By Matt Dray
+
+## warp-pipe.svg
+
+* https://game-icons.net/1x1/delapouite/warp-pipe.html
+* By http://delapouite.com/
+* Licence CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+* Unaltered
