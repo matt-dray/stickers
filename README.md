@@ -42,8 +42,8 @@ Created for the [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) packag
 
 <img src="output/kevinbacran_hex.png" width=250>
 
-## oystr_hex
+## oystr_hex [WIP]
 
-Created for the [{oystr}](https://github.com/matt-dray/oystr/) package.
+Created for the [{oystr}](https://github.com/matt-dray/oystr/) package. Subject to change.
 
 <img src="output/oystr_hex.png" width=250>
