@@ -2,12 +2,10 @@
 # Created originally 16 Oct 2017
 # Matt Dray
 
-# Call package
-
+# Call packages
 library(hexSticker)
 
 # Build sticker
-
 sticker(
   
   # package name options
@@ -27,10 +25,11 @@ sticker(
   h_color = "#159c03", # border (same dark green as pipe from url)
 
   # url options
-  url = "ukgovdatascience.github.io/rap_companion",
-  u_size = 1.2,
+  url = "ukgovdatascience.github.io/rap-website",
+  u_size = 1.33,
+  u_family = "sans",
   
   # save options
   filename = "output/rap_hex.png"
   
-  )
+)

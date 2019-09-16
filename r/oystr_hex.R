@@ -3,17 +3,13 @@
 # Matt Dray
 
 # Call packages
-
 library(hexSticker)
 library(showtext)
-library(oystr)
 
 # Add font
-
-font_add(family = "Jua-Regular", regular = "font/oystr/Jua-Regular.ttf")  # new font
+font_add(family = "Jua-Regular", regular = "font/Jua-Regular/Jua-Regular.ttf")  # new font
 
 # Build sticker
-
 sticker(
   
   # package name options

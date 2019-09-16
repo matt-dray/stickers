@@ -2,14 +2,14 @@
 # Created originally 16 Oct 2017
 # Matt Dray
 
-# Call package
-
+# Call packages
 library(hexSticker)
 library(showtext)
-font_add(family = "UrbRapper", regular = "/font/UrbRapper.ttf")  # new font
+
+# Add font
+font_add(family = "UrbRapper", regular = "../font/UrbRapper.ttf") 
 
 # Build sticker
-
 sticker(
   
   # package name options
@@ -30,11 +30,11 @@ sticker(
   h_color = "#159c03", # border (same dark green as pipe from url)
 
   # url options
-  url = "ukgovdatascience.github.io/rap_companion",
+  url = "ukgovdatascience.github.io/rap-website",
+  u_size = 1.33,
   u_family = "sans",
-  u_size = 1.2,
   
   # save options
   filename = "output/rap_v2_hex.png"
   
-  )
+)
