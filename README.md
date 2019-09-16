@@ -9,7 +9,7 @@ A place to store code for creating stickers and output images.
 ## Packages
 
 * The [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/))
-* The [{oystr}](https://github.com/matt-dray/oystr/) package
+* The [{oystr}](https://matt-dray.github.io/oystr/) package
 
 <img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200>
 
