@@ -6,44 +6,21 @@ A place to store code for creating stickers and output images.
 
 # Stickers
 
-## rap_hex
+## Packages
 
-Created for [Dr Mat Gregory](https://github.com/mammykins) in support of Reproducible Analytical Pipelines (RAP). Read [this GOV.UK blog](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/) for more. See the sticker in the [RAP companion documentation](https://github.com/ukgovdatascience/rap_companion) and [MOOC](https://www.udemy.com/reproducible-analytical-pipelines/), or in the wild (printed by [Dr Matt Upson](https://github.com/ivyleavedtoadflax), e.g. see image in [this blog](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)).
+* The [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/))
+* The [{oystr}](https://github.com/matt-dray/oystr/) package
 
-### Version 1
+<img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200>
 
-<img src="output/rap_hex.png" width=250>
+## Reproducible Analytical Pipelines (RAP)
 
-### Version 2
+Created for [Dr Mat Gregory](https://twitter.com/mammykins_) and [Dr Matt Upson](https://twitter.com/m_a_upson) in support of [Reproducible Analytical Pipelines (RAP)](https://ukgovdatascience.github.io/rap-website). Read [this GOV.UK blog](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/) for more. See the sticker in the [RAP companion documentation](https://github.com/ukgovdatascience/rap_companion) and [MOOC](https://www.udemy.com/reproducible-analytical-pipelines/), or in the wild (printed by [Dr Matt Upson](https://github.com/ivyleavedtoadflax), e.g. see image in [this blog](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)). Version 3 by [Duncan Garmonsway](https://twitter.com/nacnudus) for better integration with GOV.UK design system.
 
-<img src="output/rap_v2_hex.png" width=250>
+<img src="output/rap_hex.png" width=200><img src="output/rap_v2_hex.png" width=200><img src="output/rap_v3_hex.png" width=200>
 
-### Version 3
+## rostrum.blog
 
-Designed by [Duncan Garmonsway](https://twitter.com/nacnudus) for better integration with GOV.UK design system.
+Created to complement the [Rostrum](https://www.rostrum.blog) blog. Idea extended for a business-card hex-sticker (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)).
 
-<img src="output/rap_v3_hex.png" width=250>
-
-## rostrum_hex
-
-Created to complement the [Rostrum](https://www.rostrum.blog) blog.
-
-<img src="output/rostrum_hex.png" width=250>
-
-## business_hex
-
-Idea for a business card that's a hex sticker (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)). Uses theming from the rostrum_hex design.
-
-<img src="output/business_hex.png" width=250>
-
-## kevinbacran_hex
-
-Created for the [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/)).
-
-<img src="output/kevinbacran_hex.png" width=250>
-
-## oystr_hex [WIP]
-
-Created for the [{oystr}](https://github.com/matt-dray/oystr/) package. Subject to change.
-
-<img src="output/oystr_hex.png" width=250>
+<img src="output/rostrum_hex.png" width=200><img src="output/business_hex.png" width=200>
