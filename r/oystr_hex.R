@@ -31,8 +31,8 @@ sticker(
   h_color = oy_cols("oyster_blue"), # border
   
   # url options
-  url = "github.com/matt-dray/oystr",
-  u_size = 1.8,
+  url = "matt-dray.github.io/oystr",
+  u_size = 2,
   u_color = "white",
   u_family = "Jua-Regular",
   
