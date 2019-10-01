@@ -15,9 +15,9 @@ A place to store code for creating stickers and output images.
 
 ## Reproducible Analytical Pipelines (RAP)
 
-Created for [Dr Mat Gregory](https://twitter.com/mammykins_) and [Dr Matt Upson](https://twitter.com/m_a_upson) in support of [Reproducible Analytical Pipelines (RAP)](https://ukgovdatascience.github.io/rap-website). Read [this GOV.UK blog](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/) for more. See the sticker in the [RAP companion documentation](https://github.com/ukgovdatascience/rap_companion) and [MOOC](https://www.udemy.com/reproducible-analytical-pipelines/), or in the wild (printed by [Dr Matt Upson](https://github.com/ivyleavedtoadflax), e.g. see image in [this blog](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)). Version 3 by [Duncan Garmonsway](https://twitter.com/nacnudus) for better integration with GOV.UK design system.
+Created for [Dr Mat Gregory](https://twitter.com/mammykins_) and [Dr Matt Upson](https://twitter.com/m_a_upson) in support of [Reproducible Analytical Pipelines (RAP)](https://ukgovdatascience.github.io/rap-website). Read [this GOV.UK blog](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/) for more. See the sticker in the [RAP companion documentation](https://github.com/ukgovdatascience/rap_companion) and [MOOC](https://www.udemy.com/reproducible-analytical-pipelines/), or in the wild (printed by [Dr Matt Upson](https://github.com/ivyleavedtoadflax), e.g. see image in [this blog](https://dataingovernment.blog.gov.uk/2017/11/27/transforming-the-process-of-producing-official-statistics/)). Version 3 by [Duncan Garmonsway](https://twitter.com/nacnudus) for better integration with GOV.UK design system. Version 4 to celebrate RAP winning the inaugural Government Statistical Service Collaboration Award in 2019.
 
-<img src="output/rap_hex.png" width=200><img src="output/rap_v2_hex.png" width=200><img src="output/rap_v3_hex.png" width=200>
+<img src="output/rap_hex.png" width=200><img src="output/rap_v2_hex.png" width=200><img src="output/rap_v3_hex.png" width=200><img src="output/rap_v4_hex.png" width=200>
 
 ## rostrum.blog
 
