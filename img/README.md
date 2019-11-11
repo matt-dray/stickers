@@ -2,6 +2,19 @@
 
 All images created by me, unless stated below.
 
+## cat-hug.png
+
+* https://pixabay.com/vectors/cat-hugging-silhouette-cute-love-4195210/
+* Pixabay license https://pixabay.com/service/license/
+* Free for commercial use, no attribution required
+* Unaltered
+
+## check.png
+
+* https://en.wikipedia.org/wiki/File:Check_mark_9x9.svg
+* Public domain
+* Unaltered
+
 ## laurel.png
 
 * https://www.needpix.com/photo/97210/fame-laurel-wreath-victory-wreath-award-accolade-winner-badge-prize
