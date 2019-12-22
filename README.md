@@ -8,9 +8,9 @@ A place to store code for creating stickers and output images.
 
 ## Packages
 
-* The [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/))
-* The [{oystr}](https://matt-dray.github.io/oystr/) package
-* The [{altcheckr}](https://matt-dray.github.io/altcheckr/) package
+* The [{kevinbacran}](https://matt-dray.github.io/kevinbacran/){target="_blank"} package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/){target="_blank"})
+* The [{oystr}](https://matt-dray.github.io/oystr/){target="_blank"} package
+* The [{altcheckr}](https://matt-dray.github.io/altcheckr/){target="_blank"} package (see [blog](https://www.rostrum.blog/2019/12/08/altcheckr/){target="_blank"})
 
 <img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200><img src="output/altcheckr_hex.png" width=200>
 
