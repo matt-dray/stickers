@@ -15,6 +15,13 @@ All images created by me, unless stated below.
 * Public domain
 * Unaltered
 
+## landfill2.png
+
+* https://openclipart.org/detail/169444/landfill-with-options
+* https://openclipart.org/detail/301852/folder-icon
+* Both CC0 1.0
+* Folder icons added to the lanfill image
+
 ## laurel.png
 
 * https://www.needpix.com/photo/97210/fame-laurel-wreath-victory-wreath-award-accolade-winner-badge-prize

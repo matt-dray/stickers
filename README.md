@@ -13,8 +13,9 @@ Image sources listed in [`img/README.md`](https://github.com/matt-dray/stickers/
 * The [{kevinbacran}](https://matt-dray.github.io/kevinbacran/) package (see [blog](https://www.rostrum.blog/2019/02/27/hadley-number/))
 * The [{oystr}](https://matt-dray.github.io/oystr/) package
 * The [{altcheckr}](https://matt-dray.github.io/altcheckr/) package (see [blog](https://www.rostrum.blog/2019/12/08/altcheckr/))
+* The [{ghdump}](https://www.github.com/matt-dray/ghdump/) package (see [blog](https://www.rostrum.blog/2020/06/14/ghdump/))
 
-<img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200><img src="output/altcheckr_hex.png" width=200>
+<img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200><img src="output/altcheckr_hex.png" width=200><img src="output/ghdump_hex.png" width=200>
 
 ## Reproducible Analytical Pipelines (RAP)
 
