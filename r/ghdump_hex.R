@@ -17,4 +17,4 @@ ghdump_hex <- image_canvas_hex(border_color="#000000", border_size = 15) %>%
     size = 250, degrees = 30
   )
   
-image_write(ghdump_hex, here::here("output", "ghdump.png"))
+image_write(ghdump_hex, here::here("output", "ghdump_hex.png"))
