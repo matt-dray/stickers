@@ -2,11 +2,9 @@
 
 All images created by me, unless stated below.
 
-## cat-hug.png
-
-* https://pixabay.com/vectors/cat-hugging-silhouette-cute-love-4195210/
-* Pixabay license https://pixabay.com/service/license/
-* Free for commercial use, no attribution required
+## chatbox.svg
+* 'chatbox' element from ionicons.com
+* Open-source, MIT license as per https://ionicons.com/usage
 * Unaltered
 
 ## check.png
@@ -17,10 +15,11 @@ All images created by me, unless stated below.
 
 ## landfill2.png
 
-* https://openclipart.org/detail/169444/landfill-with-options
-* https://openclipart.org/detail/301852/folder-icon
+* Composed of: 
+    * https://openclipart.org/detail/169444/landfill-with-options
+    * https://openclipart.org/detail/301852/folder-icon
 * Both CC0 1.0
-* Folder icons added to the lanfill image
+* Folder icons added to the landfill image
 
 ## laurel.png
 

@@ -1,5 +1,11 @@
 # Font sources
 
+## Dosis
+
+* by Impallari Type
+* via https://fonts.google.com/specimen/Dosis
+* used in the {r2eng} hex
+
 ## Jua
 
 * by Woowahan Brothers
