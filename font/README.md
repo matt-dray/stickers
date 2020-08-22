@@ -1,5 +1,11 @@
 # Font sources
 
+## Anonymous Pro
+
+* by Mark Simonson
+* via https://fonts.google.com/specimen/Anonymous+Pro
+* used in the {altcheckr} hex (text, v2)
+
 ## Dosis
 
 * by Impallari Type
@@ -15,14 +21,20 @@
 ## Lekton
 
 * by ISIA Urbino
-* viahttps://fonts.google.com/specimen/Lekton
+* via https://fonts.google.com/specimen/Lekton
 * used in the rostrum.blog hex stickers
 
 ## Metro Grunge
 
 * by MIIM
 * via https://creativemarket.com/miim/682994-Metro-10-Fonts-Family?u=cruzine
-* used in the RAP hex sticker v3
+* used in the RAP hex sticker (v3)
+
+## Share Tech Mono
+
+* by Carrois Apostrophe
+* via https://fonts.google.com/specimen/Share+Tech+Mono
+* used in the {altcheckr} hex (checkmark, v2)
 
 ## UrbRapper
 
@@ -40,4 +52,4 @@
 
 * by Peter Hull
 * via https://fonts.google.com/specimen/VT323
-* used in the {altcheckr} hex sticker
+* used in the {altcheckr} hex sticker (v1)

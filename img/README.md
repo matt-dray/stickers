@@ -13,6 +13,11 @@ All images created by me, unless stated below.
 * Public domain
 * Unaltered
 
+## image-outline.svg
+* 'image-outline' element from ionicons.com
+* Open-source, MIT license as per https://ionicons.com/usage
+* Unaltered
+
 ## landfill2.png
 
 * Composed of: 

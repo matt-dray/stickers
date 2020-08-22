@@ -1,6 +1,68 @@
-# Hex sticker: {altcheckr} pakage
-# No 2019
+# Hex sticker: {altcheckr} package
+# Nov 2019, update Aug 2020
 # Matt Dray
+
+
+# Version 2 ---------------------------------------------------------------
+
+
+# See https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/
+# Font installed via https://google-webfonts-helper.herokuapp.com/fonts
+
+# Attach packages 
+# Note that {ggforce} should be installed
+library(magick)
+library(bunny)  # remotes::install_github("dmi3kno/bunny")
+
+# Read 'chatbox 'image placeholder' image
+# Source: ionicons.com, released under MIT license (https://ionicons.com/)
+img <- image_read_svg(
+  "img/image-outline.svg",
+  width = 700,
+  height = 700
+)
+
+# Create hex
+
+altcheckr_hex <- 
+  image_canvas_hex(  # generate basic hex
+    border_color = "#000000",
+    border_size = 5,
+    fill_color = "#fdffa1"
+  ) %>% 
+  image_compose(  # add speech bubble
+    img,
+    gravity = "center",
+    offset = "-300-200"
+  ) %>%
+  image_annotate(  # add text
+    text = "✓",
+    font = "Anonymous Pro for Powerline",
+    color = "#000000",
+    gravity = "center",  
+    location = "+350-320",
+    size = 900
+  ) %>% 
+  image_annotate(  # add text
+    text = '<"altcheckr">',
+    font = "Share Tech Mono",  # installed to my machine
+    color = "#000000",
+    gravity = "center",  
+    location = "+0+270",
+    size = 200
+  ) %>% 
+  image_annotate(  # add text
+    text = "matt-dray.github.io/altcheckr",
+    font = "Share Tech Mono",  # installed to my machine
+    color = "#000000",
+    gravity = "center",  
+    location = "+0+430",
+    size = 75
+  )
+
+
+# Version 1 ---------------------------------------------------------------
+
 
 # Call packages
 library(hexSticker)
