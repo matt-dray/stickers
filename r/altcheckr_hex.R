@@ -60,6 +60,9 @@ altcheckr_hex <-
     size = 75
   )
 
+# Write the image to disk
+image_write(altcheckr_hex, "output/altcheckr_hex.png")
+
 
 # Version 1 ---------------------------------------------------------------
 
