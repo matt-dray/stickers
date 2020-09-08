@@ -1,10 +1,16 @@
 # Font sources
 
-## Anonymous Pro
+## Anonymous Pro
 
 * by Mark Simonson
 * via https://fonts.google.com/specimen/Anonymous+Pro
 * used in the {altcheckr} hex (text, v2)
+
+## Beth Ellen
+
+* by Rob Jelinski, Alyson Fraser Diaz
+* via https://fonts.google.com/specimen/Beth+Ellen?category=Handwriting&preview.text=cran&preview.text_type=custom
+* used in {cran} hex
 
 ## Dosis
 

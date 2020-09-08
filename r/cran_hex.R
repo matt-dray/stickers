@@ -11,27 +11,27 @@ library(magick)
 library(bunny)  # remotes::install_github("dmi3kno/bunny")
 
 # Read in image as magick-image class
-jpg <- image_read("img/herring.jpg")
-img <- image_convert(jpg, "png")
+img <- image_read("img/herring.jpg") %>% 
+  image_resize("1600x") %>% 
+  image_transparent(color = "#FFFFFF", fuzz = 5)
 
 # Create hex
-cran_hex <- 
+cran_hex <-
   image_canvas_hex(  # generate basic hex
-    border_color = "#0000FF",
-    border_size = 5
+    border_color = "#51637d",
+    border_size = 3,
+    fill_color = "#f7e6c7"
   ) %>% 
-  image_compose(  # add image
-    image = img,  # our magick-image-class object
-    gravity = "center",  # 'non-absolute' positioning
-    offset = "+120+270"  # shift relative to gravity
-  ) %>% 
+  image_compose(  # add speech bubble
+    img, gravity = "center"
+  ) %>%
   image_annotate(  # add text
     text = "cran",
-    font = "Open Sans Condensed",  # installed to my machine
-    color = "#0000FF",
+    font = "Beth Ellen",
+    color = "#51637d",
     gravity = "center",  
-    location = "+230-400",
-    size = 250   # font-size (pixels)
+    location = "+470+200",
+    size = 100
   )
 
 # Write the image to disk
