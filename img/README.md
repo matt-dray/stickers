@@ -3,6 +3,7 @@
 All images created by me, unless stated below.
 
 ## chatbox.svg
+
 * 'chatbox' element from ionicons.com
 * Open-source, MIT license as per https://ionicons.com/usage
 * Unaltered
@@ -10,6 +11,13 @@ All images created by me, unless stated below.
 ## check.png
 
 * https://en.wikipedia.org/wiki/File:Check_mark_9x9.svg
+* Public domain
+* Unaltered
+
+## herring.jpg
+
+* Gervais et Boulart, 1877
+* https://en.wikipedia.org/wiki/Herring#/media/File:Clupea_harengus_Gervais.flipped.jpg
 * Public domain
 * Unaltered
 
