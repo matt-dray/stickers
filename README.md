@@ -8,11 +8,11 @@ Code is in the `R/` subfolder; output images in `output/`. Image sources listed 
 
 # Stickers
 
-## rostrum.blog
+## Sites
 
-[rostrum.blog](https://www.rostrum.blog)-themed. Idea extended for a business-card hex-sticker (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)).
+[rostrum.blog](https://www.rostrum.blog)-themed. Idea extended for 'business-card hex-stickers' (as per [this tweet](https://twitter.com/mattdray/status/923837532789526528)). Version 2 under development.
 
-<img src="output/rostrum_hex.png" width=200><img src="output/business_hex.png" width=200>
+<img src="output/rostrum_hex.png" width=200><img src="output/business_hex.png" width=200><img src="output/business_v2_hex.png" width=200>
 
 ## R packages
 

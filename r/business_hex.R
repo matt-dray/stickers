@@ -16,7 +16,13 @@ font_add(
 sticker(
   
   # package name options
-  package = "matt dray\n\n\n\n\ngithub.com/matt-dray\nmwdray@gmail.com\nrostrum.blog\n@mattdray",  # package name
+  package = paste0(
+    "\n\n\n\n",
+    "matt-dray.com\n",
+    "rostrum.blog\n",
+    "github.com/matt-dray\n",
+    "@mattdray"
+  ),
   p_color = "white",  # font colour
   p_size = 3,  # font size
   p_y = 1,  # y position for package name
@@ -25,7 +31,7 @@ sticker(
   # subplot options
   subplot = "img/rostrum_logo.png",
   s_x = 1,
-  s_y = 1.27,
+  s_y = 1.4,
   s_width = 0.28,
   
   # hexagon options
