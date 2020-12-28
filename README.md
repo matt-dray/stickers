@@ -19,11 +19,11 @@ Code is in the `R/` subfolder; output images in `output/`. Image sources listed 
 These are some R packages I've made:
 
 * {altcheckr} ([site](https://matt-dray.github.io/altcheckr/), [blog](https://www.rostrum.blog/2019/12/08/altcheckr/))
-* {cran} ([source](https://matt-dray.github.io/cran/), [blog](https://www.rostrum.blog/2020/09/12/herring-units/)
+* {cran} ([source](https://matt-dray.github.io/cran/), [blog](https://www.rostrum.blog/2020/09/12/herring-units/))
 * {ghdump} ([site](https://www.github.com/matt-dray/ghdump/), [blog](https://www.rostrum.blog/2020/06/14/ghdump/))
 * {kevinbacran} ([site](https://matt-dray.github.io/kevinbacran/), [blog](https://www.rostrum.blog/2019/02/27/hadley-number/))
 * {oystr} ([site](https://matt-dray.github.io/oystr/), [blog](https://www.rostrum.blog/2019/12/23/oystr/))
-* {r2eng} ([site](https://www.github.com/matt-dray/r2eng/))
+* {r2eng} ([site](https://www.github.com/matt-dray/r2eng/), [blog]())
 
 <img src="output/altcheckr_hex.png" width=200><img src="output/cran_hex.png" width=200><img src="output/ghdump_hex.png" width=200><img src="output/kevinbacran_hex.png" width=200><img src="output/oystr_hex.png" width=200><img src="output/r2eng_hex.png" width=200>
 
