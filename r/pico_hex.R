@@ -13,21 +13,21 @@ library(bunny)  # [github::dmi3kno/bunny] v0.0.0.9000
 my_font <- "IBM Plex Mono Light"
 
 # Set colours
-main_col <- "saddlebrown"
-accent_col <- "#FFFFFF"
+main_col <- "chocolate4"
+accent_col <- "sandybrown"
 
 # Build sticker
 pico_hex <-
   image_canvas_hex(  # add hex canvas
   fill_color = main_col,
-  border_color = accent_col,
-  border_size = 3
+  border_color = main_col,
+  border_size = 0
 ) %>% 
   image_annotate(  # add text
     text = "pico",
     font = my_font,
     style = "italic",
-    size = 50,
+    size = 75,
     color = accent_col,
     gravity = "center"
   ) 
