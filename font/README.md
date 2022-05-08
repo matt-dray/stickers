@@ -54,6 +54,12 @@
 * via https://fonts.google.com/specimen/Vampiro+One
 * used in the {kevinbacran} hex sticker
 
+## Victor Mono
+
+* by Rune Bjørnerås
+* via https://rubjo.github.io/victor-mono/
+* used in {r.oguelike} hex sticker
+
 ## VT323
 
 * by Peter Hull
