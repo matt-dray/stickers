@@ -55,4 +55,4 @@ quartostamp_hex <-
   )
 
 # Write the image to disk
-image_write(quartodown_hex, "output/quartodown_hex.png")
+image_write(quartostamp_hex, "output/quartostamp_hex.png")
