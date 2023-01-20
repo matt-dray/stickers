@@ -9,7 +9,7 @@
 library(magick) # CRAN v2.3
 library(bunny)  # [github::dmi3kno/bunny] v0.0.0.9000
 
-# Font installed locally via https://google-webfonts-helper.herokuapp.com/fonts
+# Font installed locally via https://www.dafont.com/pkmn-rbygsc.font
 my_font <- "PKMN RBYGSC"
 
 # Set colours
