@@ -12,9 +12,9 @@ library(bunny)  # [github::dmi3kno/bunny] v0.0.0.9000
 # Font installed locally via https://www.dafont.com/pkmn-rbygsc.font
 my_font <- "PKMN RBYGSC"
 
-# Set colours
-main_col <- "#DB9B7B"
-accent_col <- "#CFD2D9"
+# Set colours, via https://pokepalettes.com/#trapinch
+main_col <- "#ee7341"
+accent_col <- "#cdcdc5"
 text_col <- "#000000"
 
 # Read 'trapinch 'image placeholder' image
