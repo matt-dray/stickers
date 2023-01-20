@@ -10,7 +10,7 @@ library(magick) # CRAN v2.3
 library(bunny)  # [github::dmi3kno/bunny] v0.0.0.9000
 
 # Font installed locally via https://google-webfonts-helper.herokuapp.com/fonts
-my_font <- "Press Start 2P"
+my_font <- "PKMN RBYGSC"
 
 # Set colours
 main_col <- "#DB9B7B"
@@ -38,7 +38,7 @@ trapinch_hex <-
   image_annotate(  # add text
     text = "trapinch",
     font = my_font,
-    size = 150,
+    size = 200,
     color = text_col,
     gravity = "center",
     location = "+0+200"
@@ -46,7 +46,7 @@ trapinch_hex <-
   image_annotate(  # add text
     text = "R interface to PokéAPI",
     font = my_font,
-    size = 50,
+    size = 70,
     color = text_col,
     gravity = "center",
     location = "+0+400"
