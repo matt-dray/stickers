@@ -1,12 +1,16 @@
 # About
 
-A place to store code for creating stickers and output images.
+A place to store code for creating hex stickers and output images.
 
-The stickers here use either [{hexSticker}](https://github.com/GuangchuangYu/hexSticker) package by Guangchuang Yu, or [{magick}](https://github.com/ropensci/magick) and [{bunny}](https://github.com/dmi3kno/bunny) via Jeroen Ooms and Dmytro Perepolkin, respectively. See examples of stickers on [hexbin](http://hexb.in).
+The hexes here were made using one of:
 
-Code is in the `R/` subfolder; output images in `output/`. Image sources listed in [`img/README.md`](https://github.com/matt-dray/stickers/blob/master/img/README.md) and font sources listed in [`font/README.md`](https://github.com/matt-dray/stickers/blob/master/font/README.md)
+* [{hexSticker}](https://github.com/GuangchuangYu/hexSticker) package by Guangchuang Yu
+* [{magick}](https://github.com/ropensci/magick) and [{bunny}](https://github.com/dmi3kno/bunny) via Jeroen Ooms and Dmytro Perepolkin, respectively
+* [The Hexmake Shiny app](https://connect.thinkr.fr/hexmake/) by Colin Fay
 
-# Stickers
+Code is in the `R/` subfolder; output images in `output/`. Image sources listed in [`img/README.md`](https://github.com/matt-dray/stickers/blob/master/img/README.md) and font sources listed in [`font/README.md`](https://github.com/matt-dray/stickers/blob/master/font/README.md).
+
+# Hex stickers
 
 ## R packages
 
@@ -20,14 +24,16 @@ Find out about these packages, and more, [on my projects page](https://matt-dray
 <img src="output/kevinbacran_hex.png" alt="Hex sticker design for the 'kevinbacran' R package. The word 'kevinbacran' is in italicised choppy handwriting style. Underneath is a network diagram of six nodes and seven edges that look like the initials 'KB'. The colour scheme is pinks and reds, like bacon, on a black background. The URL 'matt-dray.github.io/kevinbacran' is in the lower right." width=200>
 <img src="output/oystr_hex.png" alt="Hex sticker design for the 'oystr' R package. An oystercatcher bird is in the centre. To its lower-right is the word 'oystr' in a similar font to that used by the Transport for London for the Oyster card scheme. The blues are also the same as for the scheme. The URL 'matt-dray.github.io/oystr' is in the lower right." width=200>
 <img src="output/pico_hex.png" alt="Hex sticker design for the 'pico' R package. An entirely red hex, with the word 'pico' in tiny letters in the centre." width=200>
+<img src="output/pixeltrix_hex.png" alt="Hex sticker design for the 'pixeltrix' R package. Black background and light green border. Text in centre says 'pixel' with 'trix' underneath. Each character of the font is composed of a light green 3 by 3 grid, with a blocky dark green shadow. A white mouse cursor appears after the text." width=200>
 <img src="output/quartostamp_hex.png" alt="Hex sticker design for the 'quartostamp' R package. White background, light blue border, red flower stamp emoji in the center. Text 'quartostamp' in the upper left and the path 'mattdray.github.io/quartostamp' in the lower right." width=200>
 <img src="output/r.oguelike_hex.png" alt="Hex sticker design for the 'r.oguelike' R package. Black background with bright green font, reminiscent of old computer terminal output. In the centre, a three-by-ten arrangement of hashmarks and periods, along with a single at symbol and dollar sign, which looks like a classic ACII tile-based roguelike game. The text 'r.oguelike' is underneath." width=200>
 <img src="output/r2eng_hex.png" alt="Hex sticker design for the 'r2eng' R package. A black speech bubble on a blue background, with blue text in the bubble reading 'r2eng'. The URL 'matt-dray.github.io/r2eng' is in the lower right." width=200>
 <img src="output/tamRgo_hex.png" alt="Hex sticker design for the 'tamRgo' R package. Yellow-green sprites of a digital pet advance from left to right, from youngest to oldest, ending with a tombstone. The background is black, the border is also yellow-green. A pixellated font says 'tamRgo'." width=200>
+<img src="output/trapinch_hex.png" alt="Hex sticker design for the 'trapinch' R package. An orange background and grey border are sampled from the official art of the Pokémon trapinch. A pixellated black zig-zag goes left-to-right above centre to represent the Pokémon trapnich's distinctive mouth. A pixellated font says 'trapinch' and underneath 'R interface to PokéAPI'." width=200>
 
 ## Sites
 
-[rostrum.blog](https://www.rostrum.blog)-themed. Version 1 is the original as used on the blog. Version 2 was created to take advantage of {pixeltrix} and intended for the future of the blog.
+Logo designs for [rostrum.blog](https://www.rostrum.blog). Version 2 was created to take advantage of [{pixeltrix}](https://github.com/matt-dray/pixeltrix) and intended for the future of the blog.
 
 <img src="output/rostrum_hex.png" alt="Green insect in a 16 by 16 pixel layout, on a black background. Underneath it says 'rostrum.blog' in a monospace font." width=200>
 <img src="output/rostrum-new_hex.png" alt="Black insect in a 16 by 16 pixel layout, on a green background." width=200>
