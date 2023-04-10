@@ -30,27 +30,36 @@ business_hex <- image_canvas_hex(  # generate basic hex
   border_size = 3,
   fill_color = "#8C8C8C"   # grey
 ) %>% 
-  image_compose(img, gravity = f_grav) %>%
+  image_compose(img, gravity = f_grav, offset = "+0-50") %>%
   image_annotate(  # add text
     text = "matt-dray.com",  
-    location = paste0("-", loc_x, "+", loc_y), degrees = deg_up,
-    font = f_font, size = f_size, color = f_col, gravity = f_grav
-  ) %>%
-  image_annotate(  # add text
-    text = "rostrum.blog", 
-    location = paste0("+", loc_x, "+", loc_y), degrees = deg_down,
-    font = f_font, size = f_size, color = f_col, gravity = f_grav
-  ) %>% 
-  image_annotate(  # add text
-    text = emo::ji_glue(":bird: mattdray"), 
-    location = paste0("-", loc_x, "-", loc_y), degrees = deg_down,
-    font = f_font, size = f_size, color = f_col, gravity = f_grav
-  ) %>% 
-  image_annotate(  # add text
-    text = "matt-dray", 
-    location = paste0("+", loc_x, "-", loc_y), degrees = deg_up,
-    font = f_font, size = f_size, color = f_col, gravity = f_grav
+    location = "+0+570",
+    font = f_font,
+    size = f_size,
+    color = f_col,
+    gravity = f_grav
   )
+  # image_annotate(  # add text
+  #   text = "matt-dray.com",  
+  #   location = paste0("-", loc_x, "+", loc_y), degrees = deg_up,
+  #   font = f_font,
+  #   size = f_size, color = f_col, gravity = f_grav
+  # ) %>%
+  # image_annotate(  # add text
+  #   text = "rostrum.blog", 
+  #   location = paste0("+", loc_x, "+", loc_y), degrees = deg_down,
+  #   font = f_font, size = f_size, color = f_col, gravity = f_grav
+  # ) %>% 
+  # image_annotate(  # add text
+  #   text = emo::ji_glue(":bird: mattdray"), 
+  #   location = paste0("-", loc_x, "-", loc_y), degrees = deg_down,
+  #   font = f_font, size = f_size, color = f_col, gravity = f_grav
+  # ) %>% 
+  # image_annotate(  # add text
+  #   text = "matt-dray", 
+  #   location = paste0("+", loc_x, "-", loc_y), degrees = deg_up,
+  #   font = f_font, size = f_size, color = f_col, gravity = f_grav
+  # )
 
 # Write the image to disk
 image_write(business_hex, here::here("output", "business_v2_hex.png"))
